@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<serviceType name="ConfServiceType" factoryClass="com.progress.codeshare.esbservice.conf.ConfService"
+        xmlns="http://www.sonicsw.com/sonicxq">
+    <validParams>
+        <runtime>
+            <stringParam name="file"/>
+        </runtime>
+    </validParams>
+</serviceType>
